@@ -1,0 +1,7 @@
+Load TCNT0 - initial Value
+Configure normal mode
+configure prescailing
+configure loop(find out count for required delay)
+wait until TOV0 flag set
+Reset TOV0 flag
+Repeat loop until its violated
